@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contacts us</title>
+</head>
+<body>
+    <h1>Contact details</h1>
+    <ul>
+        <li>Email    - lachaanianiket@gmail.com</li>
+        <li>instagram- <a href="https://www.instagram.com/lachhani_aniket/">Click here</a></li>
+        <li>Linkedin  - <a href="https://www.linkedin.com/in/aniket-lachhani-19736a201/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByeyQDb%2F3T2yKlEP0ywaCTw%3D%3D">Click here</a> </li>
+    </ul>
+      
+
+    
+</body>
+</html>
